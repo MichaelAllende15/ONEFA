@@ -81,6 +81,6 @@ data = pd.DataFrame({"Equipos":equipos,
                     })
 
 #Crear el archivo CSV
-data.to_csv('ONEFAOFENSIVA_22-09-07')
+data.to_csv('ONEFAOFENSIVA_22-10-31')
 
 
